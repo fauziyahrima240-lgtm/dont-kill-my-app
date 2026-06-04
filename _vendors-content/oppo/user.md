@@ -1,6 +1,7 @@
 ---
 manufacturer: 
-    - oppo
+    - oppo A31
+    
 
 ---
 
